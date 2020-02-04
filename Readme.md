@@ -15,3 +15,5 @@ Graph that shows the Twitter Network based on the tracking of hashtag #WuhanViru
 **Group 4 (Dark Green)**: Link 
 
 **Group 5 (Orange)**: Media
+
+Template provided by InteractiveVis project http://blogs.oii.ox.ac.uk/vis/ https://github.com/oxfordinternetinstitute/InteractiveVis/
