@@ -6,15 +6,15 @@ Graph that shows the Twitter Network based on the tracking of hashtag #WuhanViru
 
 **Brief Description:**
 -----
-**Group 1 (Pink)**: Users 
+* **Group 1 (Pink)**: Users 
 
-**Group 2 (Light Green)**: Tweet 
+* **Group 2 (Light Green)**: Tweet 
 
-**Group 3 (Light Blue)**: Hashtag 
+* **Group 3 (Light Blue)**: Hashtag 
 
-**Group 4 (Dark Green)**: Link 
+* **Group 4 (Dark Green)**: Link 
 
-**Group 5 (Orange)**: Media
+* **Group 5 (Orange)**: Media
 
 Template provided by InteractiveVis project: 
 * http://blogs.oii.ox.ac.uk/vis/
