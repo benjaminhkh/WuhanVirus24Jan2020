@@ -4,8 +4,9 @@ Graph that shows the Twitter Network based on the tracking of hashtag #WuhanViru
 
 **> Interactive version of the graph (Beta):** https://benjaminhkh.github.io/WuhanVirus24Jan2020/
 
-**Brief Description:**
------
+## Brief Description ## 
+
+**Group Selection**
 * **Group 1 (Pink)**: Users 
 
 * **Group 2 (Light Green)**: Tweet 
@@ -16,6 +17,11 @@ Graph that shows the Twitter Network based on the tracking of hashtag #WuhanViru
 
 * **Group 5 (Orange)**: Media
 
+
+## License ##
+Note that SigmaJS is distributed under the MIT License.
+
+## Credits ##
 Template provided by InteractiveVis project: 
 * http://blogs.oii.ox.ac.uk/vis/
 * https://github.com/oxfordinternetinstitute/InteractiveVis/
