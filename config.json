@@ -13,9 +13,9 @@
     "title": "Twitter Conversation on #WuhanVirus 24Jan2020"
   },
   "legend": {
-    "edgeLabel": "Connection",
-    "colorLabel": "Type ",
-    "nodeLabel": "Entity"
+    "edgeLabel": "Connection between two node types",
+    "colorLabel": "A particular node type (see groups)",
+    "nodeLabel": "A twitter entity (see groups)"
   },
   "features": {
     "search": true,
