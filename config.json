@@ -1,6 +1,6 @@
 {
   "type": "network",
-  "version": "1.0",
+  "version": "1.1",
   "data": "data.json",
   "logo": {
     "file": "",
@@ -8,7 +8,7 @@
     "text": "Benjamin Hu"
   },
   "text": {
-    "more": "Twitter Conversation on #WuhanVirus, approximately 10am to 5pm on 24 January 2020\n\nNode size: Eigenvector Centraliy \nMax Eigenvector Centrality: \n\n",
+    "more": "Twitter Conversation on #WuhanVirus, approximately 10am to 5pm on 24 January 2020 \n\n",
     "intro": "Twitter Conversation on #WuhanVirus, approximately 10am to 5pm on 24 January 2020. Group 1 (Pink): Users | Group 2 (Light Green): Tweet | Group 3 (Light Blue): Hashtag | Group 4 (Dark Green): Link | Group 5 (Orange): Media",
     "title": "Twitter Conversation on #WuhanVirus 24Jan2020"
   },
@@ -33,21 +33,21 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 8.5,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 16
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
+      "maxEdgeSize": 1,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 1.2,
+      "maxNodeSize": 20
     },
     "mouseProperties": {
-      "maxRatio": 20,
-      "minRatio": 0.75
+      "maxRatio": 30,
+      "minRatio": 0.55
     }
   }
 }
