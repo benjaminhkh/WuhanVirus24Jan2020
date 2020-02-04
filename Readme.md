@@ -2,7 +2,7 @@
 
 Graph that shows the Twitter Network based on the tracking of hashtag #WuhanVirus for roughly 7 hours on 24 January 2020, made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
 
-**> Interactive version of the graph (Beta): https://benjaminhkh.github.io/WuhanVirus24Jan2020/
+**> Interactive version of the graph (Beta):** https://benjaminhkh.github.io/WuhanVirus24Jan2020/
 
 **Brief Description:**
 -----
@@ -17,5 +17,7 @@ Graph that shows the Twitter Network based on the tracking of hashtag #WuhanViru
 **Group 5 (Orange)**: Media
 
 Template provided by InteractiveVis project: 
-http://blogs.oii.ox.ac.uk/vis/ 
+
+http://blogs.oii.ox.ac.uk/vis/
+
 https://github.com/oxfordinternetinstitute/InteractiveVis/
