@@ -1,12 +1,12 @@
 # Network Analysis of Twitter on #WuhanVirus from approximately 10am to 5pm, 24 January 2020 (Beta)
 
-Graph that shows the Twitter Network based on the tracking of hashtag #WuhanVirus for roughly 7 hours on 24 January 2020, made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
+Graph that shows the Twitter Network based on the tracking of hashtag #WuhanVirus for roughly 7 hours on 24 January 2020, made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org). Node size is based on Eigenvector Centrality (0 to 1), which indicates the node's influence in the network. 
 
 **> Interactive version of the graph (Beta):** https://benjaminhkh.github.io/WuhanVirus24Jan2020/ 
 
 ## Brief Description ## 
 
-**Group Selection**
+**Node Type Selection**
 * **Group 1 (Pink)**: Users 
 
 * **Group 2 (Light Green)**: Tweet 
